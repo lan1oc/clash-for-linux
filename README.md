@@ -13,14 +13,14 @@
 下载项目
 
 ```bash
-$ git clone https://github.com/wanhebin/clash-for-linux.git
+git clone https://github.com/lan1oc/clash-for-linux.git
 ```
 
 进入到项目目录，编辑`start.sh`脚本文件，修改变量`URL`的值。
 
 ```bash
-$ cd clash-for-linux
-$ vim start.sh
+cd clash-for-linux
+sudo nano start.sh
 ```
 
 
